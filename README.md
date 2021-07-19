@@ -1,1 +1,3 @@
-# webapprepo
+# maven-project
+
+Simple Maven Project
